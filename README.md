@@ -2,7 +2,7 @@
 # Project - Knowledge-Based Search Engine
 
 ## Team: Big Lens Massive Solutions
-
+ 
 ## Overview
 This milestone focuses on creating a prototype of an end-to-end application with a graphical user interface (GUI). Our application integrates a GUI with a Neo4j NoSQL database and utilizes Hadoop/Spark for scalable data processing. This document provides a comprehensive overview of the prototype, its functionality, and the technologies used.
 
