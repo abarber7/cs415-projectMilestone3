@@ -1,5 +1,5 @@
-# cpts415-Milestone4
-# Project Milestone 4 - Knowledge-Based Search Engine
+# cpts415-Milestone3
+# Project - Knowledge-Based Search Engine
 
 ## Team: Big Lens Massive Solutions
 
